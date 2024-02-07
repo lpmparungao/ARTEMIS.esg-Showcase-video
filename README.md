@@ -1,1 +1,3 @@
 # ARTEMIS.esg-Showcase-video
+
+ARTEMIS.esg is an auto-assessment and management tool capable of determining whether companies dealing with supply-chain, particularly those in the manufacturing sector, adhere to Environmental, Social, and Governance standards. It provides monthly ESG analytics specifically tailored to the company's needs. This analytics includes sensor telemetry and assessment data that determines their ESG scores and rankings, which may be shared with other partnered institutions to build professional or social ties and ensure a sustainable supply chain between the company and its partners.
